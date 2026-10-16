@@ -1,0 +1,20 @@
+# Local secrets and environment settings
+**/.env
+**/.env.*
+!**/.env.example
+
+# Generated data and build output
+**/data/
+**/node_modules/
+**/target/
+**/dist/
+**/build/
+**/__pycache__/
+**/*.pyc
+**/*.sqlite3
+**/*.log
+
+# Editor and OS files
+**/.DS_Store
+**/.idea/
+**/.vscode/
